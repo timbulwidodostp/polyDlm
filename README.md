@@ -1,6 +1,8 @@
 # polyDlm
 Implement finite polynomial distributed lag model Use polyDlm (dLagM) With (In) R Software
 
+https://www.youtube.com/watch?v=k8P-B_HRRqk
+
 Olah Data Semarang
 
 WA : +6285227746673 (085227746673)
